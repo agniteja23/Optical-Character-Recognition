@@ -13,6 +13,6 @@ reader = easyocr.Reader(['en'])
 Image("Capture.jpg")
 #reading the Characters in that image.
 output = reader.readtext('Capture.jpg',detail=0,paragraph=True)
-print(output)
-output
+print(output)#prints text (output)
+output #also prints text
 
