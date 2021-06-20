@@ -1,0 +1,4 @@
+This is a simple project for Optical Character Recognition.
+In this project we are using "Easyocr" to for character recognition, which is python pacakage.
+It helps us to perform the optical character recognition with ease, as the name suggests.
+This project is done as a part of Internship at The Sparks Foundation.
